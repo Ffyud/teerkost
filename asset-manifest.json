@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/kortings/static/css/main.799f0cf0.css",
-    "main.js": "/kortings/static/js/main.790933a3.js",
+    "main.css": "/kortings/static/css/main.8d2e65ff.css",
+    "main.js": "/kortings/static/js/main.503f7aca.js",
     "static/media/logo.svg": "/kortings/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/kortings/index.html",
-    "main.799f0cf0.css.map": "/kortings/static/css/main.799f0cf0.css.map",
-    "main.790933a3.js.map": "/kortings/static/js/main.790933a3.js.map"
+    "main.8d2e65ff.css.map": "/kortings/static/css/main.8d2e65ff.css.map",
+    "main.503f7aca.js.map": "/kortings/static/js/main.503f7aca.js.map"
   },
   "entrypoints": [
-    "static/css/main.799f0cf0.css",
-    "static/js/main.790933a3.js"
+    "static/css/main.8d2e65ff.css",
+    "static/js/main.503f7aca.js"
   ]
 }
