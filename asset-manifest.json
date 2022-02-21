@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/kortings/static/css/main.6e9481ad.css",
-    "main.js": "/kortings/static/js/main.592b7c94.js",
+    "main.css": "/kortings/static/css/main.56b9236d.css",
+    "main.js": "/kortings/static/js/main.cda55b18.js",
     "static/media/Dongle-Bold.ttf": "/kortings/static/media/Dongle-Bold.a239ec40fc2b724a26ae.ttf",
     "static/media/Dongle-Regular.ttf": "/kortings/static/media/Dongle-Regular.be19c2ab1576230dd28d.ttf",
     "static/media/Dongle-Light.ttf": "/kortings/static/media/Dongle-Light.099c1b232ee32aedbc6d.ttf",
     "index.html": "/kortings/index.html",
-    "main.6e9481ad.css.map": "/kortings/static/css/main.6e9481ad.css.map",
-    "main.592b7c94.js.map": "/kortings/static/js/main.592b7c94.js.map"
+    "main.56b9236d.css.map": "/kortings/static/css/main.56b9236d.css.map",
+    "main.cda55b18.js.map": "/kortings/static/js/main.cda55b18.js.map"
   },
   "entrypoints": [
-    "static/css/main.6e9481ad.css",
-    "static/js/main.592b7c94.js"
+    "static/css/main.56b9236d.css",
+    "static/js/main.cda55b18.js"
   ]
 }
