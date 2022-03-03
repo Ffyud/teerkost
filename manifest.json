@@ -1,7 +1,7 @@
 {
-  "short_name": "Kortings",
-  "name": "Kortings",
-  "description": "Kortings collects the current discounts from popular Dutch supermarkets.",
+  "short_name": "TEERKOST",
+  "name": "TEERKOST",
+  "description": "Teerkost collects the current discounts from popular Dutch supermarkets.",
   "icons": [
     {
       "src": "favicon.ico",
