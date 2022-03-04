@@ -1,7 +1,7 @@
 {
-  "short_name": "TEERKOST",
-  "name": "TEERKOST",
-  "description": "Teerkost collects the current discounts from popular Dutch supermarkets.",
+  "short_name": "Teerkost",
+  "name": "Teerkost",
+  "description": "Altijd de actuele aanbiedingen van de Albert Heijn, Jumbo en Lidl.",
   "icons": [
     {
       "src": "favicon.ico",
