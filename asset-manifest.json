@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.aacb0363.css",
-    "main.js": "/static/js/main.a3a209d0.js",
+    "main.js": "/static/js/main.49155278.js",
     "static/js/80.7b83e479.chunk.js": "/static/js/80.7b83e479.chunk.js",
     "static/js/577.4986f8eb.chunk.js": "/static/js/577.4986f8eb.chunk.js",
     "static/media/Dongle-Bold.ttf": "/static/media/Dongle-Bold.a239ec40fc2b724a26ae.ttf",
@@ -9,12 +9,12 @@
     "static/media/Dongle-Light.ttf": "/static/media/Dongle-Light.099c1b232ee32aedbc6d.ttf",
     "index.html": "/index.html",
     "main.aacb0363.css.map": "/static/css/main.aacb0363.css.map",
-    "main.a3a209d0.js.map": "/static/js/main.a3a209d0.js.map",
+    "main.49155278.js.map": "/static/js/main.49155278.js.map",
     "80.7b83e479.chunk.js.map": "/static/js/80.7b83e479.chunk.js.map",
     "577.4986f8eb.chunk.js.map": "/static/js/577.4986f8eb.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.aacb0363.css",
-    "static/js/main.a3a209d0.js"
+    "static/js/main.49155278.js"
   ]
 }
