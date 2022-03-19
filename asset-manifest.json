@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.c1b85608.css",
-    "main.js": "/static/js/main.e1c70293.js",
+    "main.css": "/static/css/main.a63d6ca2.css",
+    "main.js": "/static/js/main.c6f32cba.js",
     "static/js/567.747cf87f.chunk.js": "/static/js/567.747cf87f.chunk.js",
     "static/js/577.4986f8eb.chunk.js": "/static/js/577.4986f8eb.chunk.js",
     "static/media/Dongle-Bold.ttf": "/static/media/Dongle-Bold.a239ec40fc2b724a26ae.ttf",
     "static/media/Dongle-Regular.ttf": "/static/media/Dongle-Regular.be19c2ab1576230dd28d.ttf",
     "static/media/Dongle-Light.ttf": "/static/media/Dongle-Light.099c1b232ee32aedbc6d.ttf",
     "index.html": "/index.html",
-    "main.c1b85608.css.map": "/static/css/main.c1b85608.css.map",
-    "main.e1c70293.js.map": "/static/js/main.e1c70293.js.map",
+    "main.a63d6ca2.css.map": "/static/css/main.a63d6ca2.css.map",
+    "main.c6f32cba.js.map": "/static/js/main.c6f32cba.js.map",
     "567.747cf87f.chunk.js.map": "/static/js/567.747cf87f.chunk.js.map",
     "577.4986f8eb.chunk.js.map": "/static/js/577.4986f8eb.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c1b85608.css",
-    "static/js/main.e1c70293.js"
+    "static/css/main.a63d6ca2.css",
+    "static/js/main.c6f32cba.js"
   ]
 }
