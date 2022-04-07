@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.3f80746a.css",
-    "main.js": "/static/js/main.e977ab37.js",
+    "main.css": "/static/css/main.3b503fcd.css",
+    "main.js": "/static/js/main.b9cfb23e.js",
     "static/js/567.b2317cda.chunk.js": "/static/js/567.b2317cda.chunk.js",
     "static/js/577.4986f8eb.chunk.js": "/static/js/577.4986f8eb.chunk.js",
     "static/media/Dongle-Bold.ttf": "/static/media/Dongle-Bold.a239ec40fc2b724a26ae.ttf",
@@ -13,13 +13,13 @@
     "static/media/remixicon.woff?t=1590207869815": "/static/media/remixicon.8d09fa11700ed63cf96e.woff",
     "static/media/remixicon.woff2?t=1590207869815": "/static/media/remixicon.90668f6f9b3c2c18a090.woff2",
     "index.html": "/index.html",
-    "main.3f80746a.css.map": "/static/css/main.3f80746a.css.map",
-    "main.e977ab37.js.map": "/static/js/main.e977ab37.js.map",
+    "main.3b503fcd.css.map": "/static/css/main.3b503fcd.css.map",
+    "main.b9cfb23e.js.map": "/static/js/main.b9cfb23e.js.map",
     "567.b2317cda.chunk.js.map": "/static/js/567.b2317cda.chunk.js.map",
     "577.4986f8eb.chunk.js.map": "/static/js/577.4986f8eb.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3f80746a.css",
-    "static/js/main.e977ab37.js"
+    "static/css/main.3b503fcd.css",
+    "static/js/main.b9cfb23e.js"
   ]
 }
