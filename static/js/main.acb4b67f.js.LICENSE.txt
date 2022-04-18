@@ -4,6 +4,24 @@ object-assign
 @license MIT
 */
 
+/*!
+    localForage -- Offline Storage, Improved
+    Version 1.10.0
+    https://localforage.github.io/localForage
+    (c) 2013-2017 Mozilla, Apache License 2.0
+*/
+
+/**
+ * React Router DOM v6.2.2
+ *
+ * Copyright (c) Remix Software Inc.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE.md file in the root directory of this source tree.
+ *
+ * @license MIT
+ */
+
 /**
  * React Router v6.2.2
  *
