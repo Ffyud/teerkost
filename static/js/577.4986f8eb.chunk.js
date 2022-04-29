@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkkortings_app=self.webpackChunkkortings_app||[]).push([[577],{577:function(a,s,e){e.r(s);var n=e(184);s.default=function(a){var s=a.image;return(0,n.jsx)("span",{className:"product-image",children:(0,n.jsx)("img",{alt:"",src:s})})}}}]);
-//# sourceMappingURL=577.4986f8eb.chunk.js.map
