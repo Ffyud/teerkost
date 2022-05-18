@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.3e48e25b.css",
-    "main.js": "/static/js/main.5d70ae5d.js",
-    "static/js/32.40be7652.chunk.js": "/static/js/32.40be7652.chunk.js",
+    "main.css": "/static/css/main.1a57c74d.css",
+    "main.js": "/static/js/main.b68d9f35.js",
+    "static/js/32.6ebdf8d8.chunk.js": "/static/js/32.6ebdf8d8.chunk.js",
     "static/js/504.74990a5d.chunk.js": "/static/js/504.74990a5d.chunk.js",
     "static/media/remixicon.svg?t=1590207869815": "/static/media/remixicon.9cedd2150922ead84869.svg",
     "static/media/remixicon.eot?t=1590207869815": "/static/media/remixicon.5cb99e6cba5a4619063f.eot",
@@ -10,13 +10,13 @@
     "static/media/remixicon.woff?t=1590207869815": "/static/media/remixicon.8d09fa11700ed63cf96e.woff",
     "static/media/remixicon.woff2?t=1590207869815": "/static/media/remixicon.90668f6f9b3c2c18a090.woff2",
     "index.html": "/index.html",
-    "main.3e48e25b.css.map": "/static/css/main.3e48e25b.css.map",
-    "main.5d70ae5d.js.map": "/static/js/main.5d70ae5d.js.map",
-    "32.40be7652.chunk.js.map": "/static/js/32.40be7652.chunk.js.map",
+    "main.1a57c74d.css.map": "/static/css/main.1a57c74d.css.map",
+    "main.b68d9f35.js.map": "/static/js/main.b68d9f35.js.map",
+    "32.6ebdf8d8.chunk.js.map": "/static/js/32.6ebdf8d8.chunk.js.map",
     "504.74990a5d.chunk.js.map": "/static/js/504.74990a5d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3e48e25b.css",
-    "static/js/main.5d70ae5d.js"
+    "static/css/main.1a57c74d.css",
+    "static/js/main.b68d9f35.js"
   ]
 }
